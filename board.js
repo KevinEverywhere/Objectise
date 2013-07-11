@@ -1,0 +1,26 @@
+{"board":
+	{
+		"width":200,
+		"height":300,
+		"type":"solid",
+		"color":"CCFFCC",
+		"players":[{
+			"id":"JSON-Me",
+			"color":"CC0000",
+			"icon":"myJSONIcon"
+		},
+		{
+			"id":"JSON-You",
+			"color":"0000CC",
+			"icon":"yourJSONIcon"
+		}],
+		"icons":[{
+			"id":"myJSONIcon",
+			"shape":"square"
+		},
+		{
+			"id":"yourJSONIcon",
+			"shape":"circle"
+		}]
+	}
+}
